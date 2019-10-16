@@ -1,0 +1,20 @@
+{
+  "name": "LIRI-BOT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/butlerjelisa21/LIRI-BOT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/butlerjelisa21/LIRI-BOT/issues"
+  },
+  "homepage": "https://github.com/butlerjelisa21/LIRI-BOT#readme"
+}
